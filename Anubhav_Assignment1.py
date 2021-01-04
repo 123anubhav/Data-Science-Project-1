@@ -1,24 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 23 12:21:01 2020
-
-@author: akriti
-"""
-
-
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 20 15:27:18 2020
-
-@author: akriti
-"""
-
-
-
-# Name : Akriti
-# Roll.no : b19126
-# phone no : 8957125737
 
 
 
